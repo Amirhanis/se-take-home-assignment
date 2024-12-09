@@ -1,3 +1,4 @@
+Hi, im Amir. This is my personal project for FeedMe assignment. Feel free to check it out https://feedme-takehome.vercel.app/
 # feedme
 
 This template should help get you started developing with Vue 3 in Vite.
